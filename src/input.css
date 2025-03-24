@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+@theme {
+    /* container Part */
+    --spacing-mycontainer: 1120px; 
+    /* container Part */
+    /* Font Family Start */
+    --font-yellowtail: "Yellowtail", "cursive"; 
+    --font-arizonia: "Arizonia", "cursive"; 
+    --font-plex: "IBMPlexSans", "sans-serif"; 
+    /* Font Family End */
+    /* color customization */
+     --color-col1: #22647A;
+    --color-col2: #14B9F1;
+    --color-col3: #FF9600;
+    --color-col4: #F4F2BF;
+    --color-col5: #FF9600;
+    --color-col6: #F1DDDD;
+    --color-col7: #F4EEEE;
+    --color-col8: #A69393;
+    --color-col9: #1E1C1C;
+    
+     /* color customization */
+     /* drop Shadow customization */
+     --drop-shadow-3xl: 0 4px 4px 0 rgba(0, 0, 0, 0.25); 
+     /* drop Shadow customization */
+
+}
